@@ -8,6 +8,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dCode656&label=Profile%20views&color=0e75b6&style=flat" alt="Daksh's Profile Views" /> </p>
 
+
+---
+
+### GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dCode656&show_icons=true&locale=en&layout=compact" alt="dCode656" style="width: 100%;"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dCode656&show_icons=true&locale=en" alt="dCode656" style="width: 100%;"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dCode656&" alt="dCode656" style="width: 100%;"/>
+    </td>
+  </tr>
+
+
+  
+</table>
+---
+
+
+
+
+
 ### About Me:
 
 
@@ -118,22 +147,4 @@ With over a decade of experience, I specialize in transforming complex ideas int
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-### GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dCode656&show_icons=true&locale=en&layout=compact" alt="dCode656" style="width: 100%;"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dCode656&show_icons=true&locale=en" alt="dCode656" style="width: 100%;"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dCode656&" alt="dCode656" style="width: 100%;"/>
-    </td>
-  </tr>
-</table>
 
