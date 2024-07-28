@@ -1,9 +1,10 @@
 <!-- [![MasterHead](http://logo-bg.jpg)](http://) -->
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">Dedicated Full Stack Developer | PHP | Laravel | WordPress | ReactJs</h3>
-✔ Expert in Website Maintenance & Admin Tasks  
-✔ Proficient in Troubleshooting & Bug Fixing  
-✔ Skilled in Proof of Concept (PoC) & MVP Development  
+- 
+- ✔ Expert in Website Maintenance & Admin Tasks  
+- ✔ Proficient in Troubleshooting & Bug Fixing  
+- ✔ Skilled in Proof of Concept (PoC) & MVP Development  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dCode656&label=Profile%20views&color=0e75b6&style=flat" alt="Daksh's Profile Views" /> </p>
 
