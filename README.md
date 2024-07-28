@@ -121,8 +121,19 @@ With over a decade of experience, I specialize in transforming complex ideas int
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dCode656&show_icons=true&locale=en&layout=compact" alt="dCode656" /></p>
+### GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dCode656&show_icons=true&locale=en" alt="dCode656" /></p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dCode656&show_icons=true&locale=en&layout=compact" alt="dCode656" style="width: 100%;"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dCode656&show_icons=true&locale=en" alt="dCode656" style="width: 100%;"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dCode656&" alt="dCode656" style="width: 100%;"/>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dCode656&" alt="dCode656" /></p>
