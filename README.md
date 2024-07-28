@@ -1,5 +1,5 @@
 <!-- [![MasterHead](http://logo-bg.jpg)](http://) -->
-<h1 align="center">Hi 👋, I'm Daksh</h1>
+<h1 align="center">Hi 👋, I'm DaksH</h1>
 <h3 align="center">Dedicated Full Stack Developer | PHP | Laravel | WordPress | ReactJs</h3>
 
 <p> ✔ Expert in Website Maintenance & Admin Tasks</p>
