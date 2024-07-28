@@ -6,12 +6,12 @@
 <p> ✔ Proficient in Troubleshooting & Bug Fixing</p>
 <p> ✔ Skilled in Proof of Concept (PoC) & MVP Development</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dCode656&label=Profile%20views&color=0e75b6&style=flat" alt="Daksh's Profile Views" /> </p>
-
 
 ---
 
 ### GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dCode656&label=Profile%20views&color=0e75b6&style=flat" alt="Daksh's Profile Views" /> </p>
+
 
 <table>
 <!--   <tr>
