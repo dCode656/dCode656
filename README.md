@@ -14,11 +14,11 @@
 ### GitHub Stats:
 
 <table>
-  <tr>
+<!--   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dCode656&show_icons=true&locale=en&layout=compact" alt="dCode656" style="width: 100%;"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dCode656&show_icons=true&locale=en" alt="dCode656" style="width: 100%;"/>
